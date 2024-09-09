@@ -228,6 +228,7 @@ params:
     - name: DDoS Protection
       category: DDoS Protection
       closed: false
+      status: maintenance
 
 
   # What date format to use?
