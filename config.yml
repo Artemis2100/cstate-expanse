@@ -145,31 +145,25 @@ params:
   categories:
     - name: Panels
       description: Staus of all our control panels and billing area
-      closed: true
+      closed: false
 
     - name: United States
-      description: Servers Located in the USA.
-      closed: true
+      closed: false
 
     - name: Asia-Pacific
-      description: Servers Located in Asia Pacific.
-      closed: true
+      closed: false
 
     - name: Europe
-      description: Servers Located in Europe.
-      closed: true
+      closed: false
 
     - name: United Kingdom
-      description: Servers Located in UK.
-      closed: true
+      closed: false
 
     - name: DDoS Protection
-      description: The main servers are located here.
-      closed: true
+      closed: false
       
     - name: North Coast
-      description: The main servers are located here.
-      closed: true
+      closed: false
 
   # These are your systems. Change them to
   # change the amount of components.
