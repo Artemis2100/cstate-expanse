@@ -224,6 +224,11 @@ params:
       category: Asia-Pacific
       closed: false
 
+#DDoS Protection
+    - name: DDoS Protection
+      category: DDoS Protection
+      closed: false
+
 
   # What date format to use?
   #
