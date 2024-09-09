@@ -179,32 +179,56 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
+
+# Panel List below
+    - name: Game Panel
+      category: Panels
+      closed: false 
+
+    - name: VPS Panel
+      category: Panels
+      closed: false 
+
+    - name: Billing Area
+      category: Panels
+      closed: false 
+
+# Location list below       
     - name: Phoenix , USA
       category: United States
+      closed: false 
 
     - name: New York City , USA
       category: United States
+      closed: false
 
     - name: Frankfurt AM Main , Germany
       category: Europe
+      closed: false
 
     - name: London , United Kingdom
       category: United Kingdom
+      closed: false
 
     - name: Singapore , SG
       category: Asia-Pacific
+      closed: false
 
     - name: Hong Kong , China
       category: Asia-Pacific
+      closed: false
 
     - name: Tokyo , Japan
       category: Asia-Pacific
+      closed: false
 
     - name: Johor Bahru , Malaysia
       category: Asia-Pacific
+      closed: false
 
     - name: Sydney , Australia
       category: Asia-Pacific
+      closed: false
 
 
   # What date format to use?
