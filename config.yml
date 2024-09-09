@@ -143,16 +143,33 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
+    - name: Panels
+      description: Staus of all our control panels and billing area
+      closed: true
+
+    - name: United States
+      description: Servers Located in the USA.
+      closed: true
+
+    - name: Asia-Pacific
+      description: Servers Located in Asia Pacific.
+      closed: true
+
+    - name: Europe
+      description: Servers Located in Europe.
+      closed: true
+
+    - name: United Kingdom
+      description: Servers Located in UK.
+      closed: true
+
+    - name: DDoS Protection
+      description: The main servers are located here.
+      closed: true
+      
     - name: North Coast
       description: The main servers are located here.
       closed: true
-    - name: United States
-      description: US SERVERS
-      closed: true
-
-    - name: Empty Category
-    - name: Uncategorized
-      untitled: true
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -162,10 +179,34 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Phoenix
+    - name: Phoenix , USA
       category: United States
-    - name: New York City
+
+    - name: New York City , USA
       category: United States
+
+    - name: Frankfurt AM Main , Germany
+      category: Europe
+
+    - name: London , United Kingdom
+      category: United Kingdom
+
+    - name: Singapore , SG
+      category: Asia-Pacific
+
+    - name: Hong Kong , China
+      category: Asia-Pacific
+
+    - name: Tokyo , Japan
+      category: Asia-Pacific
+
+    - name: Johor Bahru , Malaysia
+      category: Asia-Pacific
+
+    - name: Sydney , Australia
+      category: Asia-Pacific
+
+
   # What date format to use?
   #
   # Hugo formatting docs:
