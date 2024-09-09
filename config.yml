@@ -146,6 +146,10 @@ params:
     - name: North Coast
       description: The main servers are located here.
       closed: true
+    - name: United States
+      description: US SERVERS
+      closed: true
+
     - name: Empty Category
     - name: Uncategorized
       untitled: true
@@ -158,10 +162,10 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: smth
-    - name: Backup Gateway
-      category: North Coast
+    - name: Phoenix
+      category: United States
+    - name: New York City
+      category: United States
     - name: Website
       description: The web frontend for the application.
       category: Uncategorized
