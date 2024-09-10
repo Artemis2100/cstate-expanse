@@ -1,8 +1,8 @@
 ---
-title: Unavailable Guilds & Connection Issues
-date: 2018-04-13 15:54:00
+title: Panel Feature upgrades
+date: 2024-09-10 4:00:00
 resolved: false
-resolvedWhen: 2018-04-13 17:30:00
+resolvedWhen: 2024-09-10 6:00:00
 # Possible severity levels: down, disrupted, notice
 severity: notice
 affected:
@@ -12,7 +12,7 @@ section: issue
 
 *Maintenance Notice*
 
-We will be planning a maintenance between 4am GMT to 6am GMT for updating our panel features 
+We will be planning a maintenance for updating our panel features 
 
 ---
 
