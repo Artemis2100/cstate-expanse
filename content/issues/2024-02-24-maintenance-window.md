@@ -1,19 +1,13 @@
 ---
-title: Panel Feature upgrades
+title: Maintenance Announcement 
 date: 2024-09-10 4:00:00
-resolved: false
-resolvedWhen: 2024-09-10 6:00:00
-# Possible severity levels: down, disrupted, notice
-severity: notice
-affected:
-  - Game Panel
+informational: true
+pin: true 
 section: issue
 ---
 
 *Maintenance Notice*
 
 We will be planning a maintenance for updating our panel features 
-
----
 
 
