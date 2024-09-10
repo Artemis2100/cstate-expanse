@@ -1,7 +1,7 @@
 ---
 title: Maintenance Announcement 
 date: 2024-09-10 4:00:00
-severity: notice
+informational: true
 pin: true 
 section: issue
 ---
